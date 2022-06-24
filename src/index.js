@@ -1,18 +1,17 @@
 import React from "react";
-import ReactDOM from "react-dom";
+import ReactDOM from "react-dom/client";
+import "tachyons";
+
 import "./index.css";
 import reportWebVitals from "./reportWebVitals";
 
-import "tachyons";
-import Card from "./Card";
-import { robots } from "./robots";
+import App from "./App";
 
-ReactDOM.render(
-  <div>
-    <Card id={robots[0].id} name={robots[0].name} email={robots[0].email} />
-    <Card id={robots[1].id} name={robots[1].name} email={robots[1].email} />
-  </div>,
-  document.getElementById("root")
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
 );
 
 // If you want to start measuring performance in your app, pass a function
