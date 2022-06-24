@@ -58,3 +58,9 @@ $ sudo npm install --unsafe-perm=true --allow-root
 ```
 
 ---
+
+## Authors
+
+- **Tri Denda** - [https://github.com/tridenda](https://github.com/tridenda)
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
