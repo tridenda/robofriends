@@ -3,6 +3,6 @@
 ## Simple project while I learned ReactJS
 
 <h2 align="center">
-  <img src="https://github.com/tridenda/robofriends/blob/main/examples/example.gif" alt="Simplefolio" width="600px" />
+  <img src="https://github.com/tridenda/robofriends/blob/alfa/examples/example.gif" alt="Simplefolio" width="600px" />
   <br>
 </h2>
