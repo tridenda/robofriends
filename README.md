@@ -63,4 +63,4 @@ $ sudo npm install --unsafe-perm=true --allow-root
 
 - **Tri Denda** - [https://github.com/tridenda](https://github.com/tridenda)
 
-This project is licensed under the MIT License - see the [https://github.com/tridenda/robofriends/blob/alfa/LICENSE](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/tridenda/robofriends/blob/alfa/LICENSE) file for details
