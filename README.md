@@ -1,9 +1,9 @@
-# Robofriends ️⚡ [![GitHub](https://img.shields.io/github/license/cobidev/simplefolio?color=blue)](https://github.com/tridenda/robofriends/blob/main/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/tridenda/robofriends) ![GitHub forks](https://img.shields.io/github/forks/tridenda/robofriends)
+# Robofriends ️⚡ [![GitHub](https://img.shields.io/github/license/cobidev/simplefolio?color=blue)](https://github.com/tridenda/robofriends/blob/alfa/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/tridenda/robofriends) ![GitHub forks](https://img.shields.io/github/forks/tridenda/robofriends)
 
 ## Simple project while I learned ReactJS
 
 <h2 align="center">
-  <img src="https://github.com/tridenda/robofriends/blob/main/examples/example.gif" alt="Robofriends" width="600" />
+  <img src="https://github.com/tridenda/robofriends/blob/alfa/examples/example.gif" alt="Robofriends" width="600" />
   <br>
 </h2>
 
@@ -63,4 +63,4 @@ $ sudo npm install --unsafe-perm=true --allow-root
 
 - **Tri Denda** - [https://github.com/tridenda](https://github.com/tridenda)
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/tridenda/robofriends/blob/main/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/tridenda/robofriends/blob/alfa/LICENSE) file for details
